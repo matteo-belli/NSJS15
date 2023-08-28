@@ -143,6 +143,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
   m_PrefabInstance: {fileID: 1264468833}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &965235415 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
+  m_PrefabInstance: {fileID: 1288998338}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1069733992
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -153,7 +158,7 @@ PrefabInstance:
     - target: {fileID: 4229578405583427616, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: OtherShroom
       value: 
-      objectReference: {fileID: 723731807}
+      objectReference: {fileID: 965235415}
     - target: {fileID: 4229578405583427616, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: objectsToActivate
       value: 
@@ -234,10 +239,6 @@ PrefabInstance:
     - target: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_Name
       value: Shroom Psichedelic
-      objectReference: {fileID: 0}
-    - target: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4229578405583427646, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_RootOrder
@@ -339,10 +340,6 @@ PrefabInstance:
     - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: m_Name
       value: Shroom Normal
-      objectReference: {fileID: 0}
-    - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: OtherShroom
@@ -485,7 +482,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6299826280813636089, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.6699982
+      value: -4.669998
       objectReference: {fileID: 0}
     - target: {fileID: 6299826280813636089, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
       propertyPath: m_LocalPosition.y
@@ -583,10 +580,6 @@ PrefabInstance:
     - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: m_Name
       value: Shroom Normal
-      objectReference: {fileID: 0}
-    - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: OtherShroom
