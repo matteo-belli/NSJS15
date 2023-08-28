@@ -533,6 +533,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6649115514696355798, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_SleepingMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115514696355805, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516246577734, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516246577755, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_SleepingMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
       propertyPath: m_RootOrder
       value: 7

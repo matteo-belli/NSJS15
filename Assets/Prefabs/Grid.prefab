@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6649115514696355793}
   m_Layer: 0
   m_Name: Ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8937,7 +8937,7 @@ GameObject:
   - component: {fileID: 6649115516246577754}
   m_Layer: 0
   m_Name: PsychoGround
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
