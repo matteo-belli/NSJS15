@@ -123,154 +123,10 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &19318973
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 248668910}
-    m_Modifications:
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 4.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.6626818
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_Name
-      value: Psychedelic Ground Piece (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
 --- !u!1 &248668909 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3952628991807006561, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
   m_PrefabInstance: {fileID: 3952628991768348044}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &248668910 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-  m_PrefabInstance: {fileID: 3952628991768348044}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &500462136
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 810120773}
-    m_Modifications:
-    - target: {fileID: 1300882353140180970, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: cbb2a2e2c8e93844d9e2870599b05b57, type: 2}
-    - target: {fileID: 4269745481843202440, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: -1245640143, guid: 7519d7e356889ec438080cd50431b0f9, type: 3}
-    - target: {fileID: 4269745481843202440, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202440, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202440, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.6626818
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.028477695
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202442, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-      propertyPath: m_Name
-      value: Psychedelic Background
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
---- !u!4 &500462137 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
-  m_PrefabInstance: {fileID: 500462136}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
@@ -356,63 +212,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &536578272
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 248668910}
-    m_Modifications:
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 3.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.6626818
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_Name
-      value: Psychedelic Ground Piece (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
 --- !u!1 &593682556 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2071148987056612764, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
@@ -423,100 +222,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
   m_PrefabInstance: {fileID: 7726100942675986307}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &810120772
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 810120773}
-  m_Layer: 0
-  m_Name: Psychedelic Background
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &810120773
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 810120772}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 500462137}
-  m_Father: {fileID: 248668910}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &866356530 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
   m_PrefabInstance: {fileID: 1264468833}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1147009873
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 248668910}
-    m_Modifications:
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.6626818
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_Name
-      value: Psychedelic Ground Piece (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
 --- !u!1001 &1264468833
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -586,63 +296,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
---- !u!1001 &1719352325
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 248668910}
-    m_Modifications:
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 5.77
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.6626818
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
-      propertyPath: m_Name
-      value: Psychedelic Ground Piece (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
 --- !u!1001 &2071148987570292192
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -653,10 +306,6 @@ PrefabInstance:
     - target: {fileID: 2071148987056612764, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
       propertyPath: m_Name
       value: Normal Terrain
-      objectReference: {fileID: 0}
-    - target: {fileID: 2071148987056612764, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2071148987056612765, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
       propertyPath: m_RootOrder
@@ -715,10 +364,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Psichedelic Terrain
       objectReference: {fileID: 0}
-    - target: {fileID: 3952628991807006561, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -763,14 +408,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5755190161172121546, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.6626818
-      objectReference: {fileID: 0}
-    - target: {fileID: 5755190161172121546, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
 --- !u!1001 &6299826279516308462
@@ -780,10 +417,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6299826280813636086, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
-      propertyPath: jumpspeed
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 6299826280813636089, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -888,10 +521,6 @@ PrefabInstance:
     - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: m_Name
       value: Shroom Normal
-      objectReference: {fileID: 0}
-    - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: OtherShroom

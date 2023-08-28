@@ -74,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 9
   m_Sprite: {fileID: 21300000, guid: 04ee6a64f7ace7240983321c765da774, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -102,7 +102,7 @@ MonoBehaviour:
   objectsToActivate: {fileID: 0}
   objectsToDeactivate: {fileID: 0}
   Self: {fileID: 4229578405583427617}
-  OtherShroom: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
+  OtherShroom: {fileID: 0}
 --- !u!58 &4229578405583427645
 CircleCollider2D:
   m_ObjectHideFlags: 0
