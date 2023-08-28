@@ -542,6 +542,10 @@ PrefabInstance:
       value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 6649115516246577734, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516246577734, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
       propertyPath: m_TagString
       value: Ground
       objectReference: {fileID: 0}
@@ -596,6 +600,14 @@ PrefabInstance:
     - target: {fileID: 6649115516529188492, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
       propertyPath: m_Name
       value: Grid
+      objectReference: {fileID: 0}
+    - target: {fileID: 7423983538002174848, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7423983538002174850, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
