@@ -164,7 +164,7 @@ PrefabInstance:
       objectReference: {fileID: 593682556}
     - target: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_Name
-      value: Shroom Psichedelic (1)
+      value: Shroom Psichedelic
       objectReference: {fileID: 0}
     - target: {fileID: 4229578405583427646, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_RootOrder
@@ -338,7 +338,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: m_Name
-      value: Shroom Normal (1)
+      value: Shroom Normal
       objectReference: {fileID: 0}
     - target: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: m_IsActive
@@ -368,10 +368,6 @@ PrefabInstance:
     - target: {fileID: 2071148987056612764, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
       propertyPath: m_Name
       value: Normal Terrain
-      objectReference: {fileID: 0}
-    - target: {fileID: 2071148987056612764, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2071148987056612765, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
       propertyPath: m_RootOrder
@@ -426,17 +422,9 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 810120772, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006561, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_Name
       value: Psichedelic Terrain
-      objectReference: {fileID: 0}
-    - target: {fileID: 3952628991807006561, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_RootOrder
