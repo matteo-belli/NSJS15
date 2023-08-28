@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed;
+    public float jumpspeed;
     private Rigidbody2D body;
     private Animator anim;
     private bool Grounded;
@@ -41,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Jump()
     {
-        body.velocity = new Vector2(body.velocity.x, speed);
+        body.velocity = new Vector2(body.velocity.x, jumpspeed);
         anim.SetTrigger("Jump");
         Grounded = false;
     }
