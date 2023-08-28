@@ -344,7 +344,7 @@ PrefabInstance:
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: OtherShroom
       value: 
-      objectReference: {fileID: 866356530}
+      objectReference: {fileID: 1520618482}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: objectsToActivate
       value: 
@@ -355,6 +355,11 @@ PrefabInstance:
       objectReference: {fileID: 248668909}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
+--- !u!1 &1520618482 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
+  m_PrefabInstance: {fileID: 1069733992}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2071148987570292192
 PrefabInstance:
   m_ObjectHideFlags: 0
