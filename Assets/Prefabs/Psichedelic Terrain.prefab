@@ -24,13 +24,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 810120772}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 980555209686183485}
   m_Father: {fileID: 3952628991807006562}
-  m_RootOrder: 5
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3952628991807006561
 GameObject:
@@ -60,15 +60,2124 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 810120773}
   - {fileID: 5755190161172121546}
   - {fileID: 980555210382993236}
   - {fileID: 980555209722762469}
   - {fileID: 980555209232241848}
   - {fileID: 980555210955923456}
-  - {fileID: 810120773}
+  - {fileID: 3566967492718902639}
+  - {fileID: 340756169574625269}
+  - {fileID: 3977949349844087050}
+  - {fileID: 1446984948831845705}
+  - {fileID: 2458618303921533095}
+  - {fileID: 650719315349926446}
+  - {fileID: 2650569354419510821}
+  - {fileID: 3376190756699268592}
+  - {fileID: 6145484927407060060}
+  - {fileID: 176221148251743349}
+  - {fileID: 8765290630182176396}
+  - {fileID: 7181776200140625738}
+  - {fileID: 5988924125370715606}
+  - {fileID: 2156033419241139413}
+  - {fileID: 5057955848590517435}
+  - {fileID: 4613342471642914757}
+  - {fileID: 1410079220944757372}
+  - {fileID: 4449026161575921248}
+  - {fileID: 371473568507991161}
+  - {fileID: 905729862631552363}
+  - {fileID: 1385347125680813953}
+  - {fileID: 4176480696249709045}
+  - {fileID: 2766946114686568379}
+  - {fileID: 1045556910043549849}
+  - {fileID: 1111464837686932661}
+  - {fileID: 4388700478261912070}
+  - {fileID: 4243949976637567145}
+  - {fileID: 9181549959405535150}
+  - {fileID: 1202371413881399799}
+  - {fileID: 6897808308960623959}
+  - {fileID: 4771041230390142085}
+  - {fileID: 5611002003545882924}
+  - {fileID: 4317159626121544103}
+  - {fileID: 8166667517833069356}
+  - {fileID: 1651333988836510173}
+  - {fileID: 1323875215091921447}
+  - {fileID: 9095109682341145079}
+  - {fileID: 6234685372900874736}
+  - {fileID: 3013531765373812397}
+  - {fileID: 3688056029951452666}
+  - {fileID: 571730893732356575}
+  - {fileID: 3150128678622630459}
+  - {fileID: 7440134677593772642}
+  - {fileID: 248430498060593466}
+  - {fileID: 7597183163358503237}
+  - {fileID: 4137070020845127920}
+  - {fileID: 1849628325337978509}
+  - {fileID: 4220903199922220911}
+  - {fileID: 6452791567192163618}
+  - {fileID: 2021692380295038822}
+  - {fileID: 6711637908348775056}
+  - {fileID: 895069178365268717}
+  - {fileID: 6875716707448459424}
+  - {fileID: 1125996251634044190}
+  - {fileID: 5635002730033943627}
+  - {fileID: 5878481302535219684}
+  - {fileID: 2017105307809194468}
+  - {fileID: 842620935483094158}
+  - {fileID: 3723334190622161199}
+  - {fileID: 4971541060606315792}
+  - {fileID: 4703718357749351906}
+  - {fileID: 7533258658530844087}
+  - {fileID: 1876689005759592466}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &47445207833499694
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 38
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (37)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4317159626121544103 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 47445207833499694}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &118400774154070304
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (31)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4243949976637567145 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 118400774154070304}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &131316855821022950
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (52)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4220903199922220911 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 131316855821022950}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &155653081079714169
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 51
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (50)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4137070020845127920 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 155653081079714169}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &195055512158120060
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 27
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (26)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4176480696249709045 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 195055512158120060}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &504178153849151465
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (22)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4449026161575921248 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 504178153849151465}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &551380007024638863
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (30)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4388700478261912070 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 551380007024638863}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &607904102892551283
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (44)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3688056029951452666 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 607904102892551283}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &642570387373056166
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.33731818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (63)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3723334190622161199 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 642570387373056166}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &774976399851644134
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3566967492718902639 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 774976399851644134}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &897814188123236483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3977949349844087050 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 897814188123236483}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1222357532488846258
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 47
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (46)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3150128678622630459 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 1222357532488846258}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1338441862601631524
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 44
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (43)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3013531765373812397 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 1338441862601631524}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1556993669525126265
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &3376190756699268592 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 1556993669525126265}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1828438045252380974
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &2458618303921533095 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 1828438045252380974}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2100652355666943538
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (27)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &2766946114686568379 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2100652355666943538}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2272514802001758124
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &2650569354419510821 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2272514802001758124}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2359636013838661741
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.33731818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (61)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &2017105307809194468 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2359636013838661741}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2398862044586156443
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (67)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1876689005759592466 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2398862044586156443}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2515856109299994372
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (51)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1849628325337978509 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2515856109299994372}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2786296727528469852
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (18)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &2156033419241139413 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2786296727528469852}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2832571093583027951
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (54)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &2021692380295038822 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2832571093583027951}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2916242636883357192
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (25)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1385347125680813953 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2916242636883357192}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2941050050841000949
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (21)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1410079220944757372 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2941050050841000949}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2962937111200181166
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (40)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1323875215091921447 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 2962937111200181166}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3165608922357428350
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (33)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1202371413881399799 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3165608922357428350}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3290892621537792084
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (39)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1651333988836510173 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3290892621537792084}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3410799144646911168
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1446984948831845705 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3410799144646911168}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3526522613756144903
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 63
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.3373182
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (62)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &842620935483094158 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3526522613756144903}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3622863470711352231
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &650719315349926446 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3622863470711352231}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3759830061645917500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (29)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1111464837686932661 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3759830061645917500}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3810460095977247895
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 59
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (58)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1125996251634044190 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3810460095977247895}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3874149684126550288
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (28)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &1045556910043549849 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3874149684126550288}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3952628990625103581
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -78,7 +2187,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -86,7 +2195,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6626818
+      value: -0.6626818
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -140,7 +2249,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -148,7 +2257,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6626818
+      value: -0.6626818
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -202,7 +2311,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -210,7 +2319,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6626818
+      value: -0.6626818
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -264,7 +2373,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -272,7 +2381,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6626818
+      value: -0.6626818
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -399,6 +2508,1432 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: ebeddc9916ae4c34597e88b357933ae3, type: 3}
   m_PrefabInstance: {fileID: 3952628992092616628}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3975203236394765156
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 57
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (56)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &895069178365268717 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 3975203236394765156}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4021963395527486690
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (24)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &905729862631552363 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4021963395527486690}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4049779346969309363
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 49
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (48)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &248430498060593466 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4049779346969309363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4121707179694833148
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &176221148251743349 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4121707179694833148}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4372463981770537046
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (45)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &571730893732356575 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4372463981770537046}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4496443845856873968
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (23)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &371473568507991161 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4496443845856873968}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4610477700448220796
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &340756169574625269 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4610477700448220796}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4820469566931361541
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (15)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &8765290630182176396 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4820469566931361541}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4911815232361965095
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (32)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &9181549959405535150 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 4911815232361965095}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5006169855590609022
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (41)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &9095109682341145079 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 5006169855590609022}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5338166552770288293
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (38)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &8166667517833069356 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 5338166552770288293}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5922149058706159820
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (49)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &7597183163358503237 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 5922149058706159820}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6037827583344247870
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 67
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (66)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &7533258658530844087 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 6037827583344247870}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6407467247935901379
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (16)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &7181776200140625738 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 6407467247935901379}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6629727414276393963
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (47)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &7440134677593772642 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 6629727414276393963}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7119563572836293803
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (53)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &6452791567192163618 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7119563572836293803}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7217683668955351337
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (57)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &6875716707448459424 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7217683668955351337}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7275810357548033246
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (34)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &6897808308960623959 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7275810357548033246}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7378490459661497113
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (55)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &6711637908348775056 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7378490459661497113}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7520378222788924511
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (17)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &5988924125370715606 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7520378222788924511}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7698236699103785069
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 61
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.33731818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (60)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &5878481302535219684 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7698236699103785069}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7910330529126498425
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 43
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (42)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &6234685372900874736 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7910330529126498425}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7928599375784881621
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &6145484927407060060 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 7928599375784881621}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8403615824059506243
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -408,7 +3943,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -416,7 +3951,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6626818
+      value: -0.6626818
       objectReference: {fileID: 0}
     - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -460,4 +3995,438 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
   m_PrefabInstance: {fileID: 8403615824059506243}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8463006713712233922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (59)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &5635002730033943627 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 8463006713712233922}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8547663303785863333
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (36)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &5611002003545882924 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 8547663303785863333}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8752475792492100876
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (35)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4771041230390142085 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 8752475792492100876}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8793234326531972203
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 66
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (65)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4703718357749351906 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 8793234326531972203}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8882449137227286092
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4613342471642914757 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 8882449137227286092}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9038820036802723122
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.6626818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (19)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &5057955848590517435 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 9038820036802723122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9205173632570135705
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3952628991807006562}
+    m_Modifications:
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_RootOrder
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.33731818
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4269745481843202442, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+      propertyPath: m_Name
+      value: Psychedelic Ground Piece (64)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+--- !u!4 &4971541060606315792 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4269745481843202441, guid: 6022b4469995dee458d1b5fa636eb1e0, type: 3}
+  m_PrefabInstance: {fileID: 9205173632570135705}
   m_PrefabAsset: {fileID: 0}

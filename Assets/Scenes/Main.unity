@@ -145,7 +145,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &519420029
 AudioListener:
   m_ObjectHideFlags: 0
@@ -256,11 +256,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4229578405583427646, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.67
+      value: 9.83
       objectReference: {fileID: 0}
     - target: {fileID: 4229578405583427646, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.27115646
+      value: -0.22884354
       objectReference: {fileID: 0}
     - target: {fileID: 4229578405583427646, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -364,17 +364,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Psichedelic Terrain
       objectReference: {fileID: 0}
+    - target: {fileID: 3952628991807006561, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.75
+      value: -4.258
       objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.09
+      value: -1.839
       objectReference: {fileID: 0}
     - target: {fileID: 3952628991807006562, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -417,6 +421,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 519420032, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 519420032, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6299826280813636089, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
       propertyPath: m_RootOrder
       value: 1
