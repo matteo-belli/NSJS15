@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ShroomScript : MonoBehaviour
+public class NormalShroom : MonoBehaviour
 {
     public Collider2D shroomcollider; // Reference to the player's collider
     public GameObject objectsToActivate;
@@ -18,11 +18,12 @@ public class ShroomScript : MonoBehaviour
         {
             Debug.Log("SpengiAccendi");
 
-                objectsToActivate.SetActive(true);
-            
-                objectsToDeactivate.SetActive(false);
+            objectsToActivate.SetActive(true);
+
+            objectsToDeactivate.SetActive(false);
 
             Self.SetActive(false);
+
             OtherShroom.SetActive(true);
         }
     }
