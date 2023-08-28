@@ -123,25 +123,15 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &248668909 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3952628991807006561, guid: aa4231a83d8fded40b8c984a669a25b4, type: 3}
-  m_PrefabInstance: {fileID: 3952628991768348044}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &593682556 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2071148987056612764, guid: 53e2383b1a595f547b2120b2be5b4ef4, type: 3}
-  m_PrefabInstance: {fileID: 2071148987570292192}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &723731807 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7945494654688053688, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
   m_PrefabInstance: {fileID: 7726100942675986307}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &866356530 stripped
+--- !u!1 &851729271 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
-  m_PrefabInstance: {fileID: 1264468833}
+  m_CorrespondingSourceObject: {fileID: 6649115514696355805, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+  m_PrefabInstance: {fileID: 6649115515548046506}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &965235415 stripped
 GameObject:
@@ -162,11 +152,11 @@ PrefabInstance:
     - target: {fileID: 4229578405583427616, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: objectsToActivate
       value: 
-      objectReference: {fileID: 248668909}
+      objectReference: {fileID: 1454229228}
     - target: {fileID: 4229578405583427616, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: objectsToDeactivate
       value: 
-      objectReference: {fileID: 593682556}
+      objectReference: {fileID: 851729271}
     - target: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_Name
       value: Shroom Psichedelic
@@ -231,11 +221,11 @@ PrefabInstance:
     - target: {fileID: 4229578405583427616, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: objectsToActivate
       value: 
-      objectReference: {fileID: 248668909}
+      objectReference: {fileID: 1454229228}
     - target: {fileID: 4229578405583427616, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: objectsToDeactivate
       value: 
-      objectReference: {fileID: 593682556}
+      objectReference: {fileID: 851729271}
     - target: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
       propertyPath: m_Name
       value: Shroom Psichedelic
@@ -348,13 +338,18 @@ PrefabInstance:
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: objectsToActivate
       value: 
-      objectReference: {fileID: 593682556}
+      objectReference: {fileID: 851729271}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: objectsToDeactivate
       value: 
-      objectReference: {fileID: 248668909}
+      objectReference: {fileID: 1454229228}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
+--- !u!1 &1454229228 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6649115516246577734, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+  m_PrefabInstance: {fileID: 6649115515548046506}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1520618482 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4229578405583427617, guid: 467d8a4a8211dd44280d9da4d7b8581b, type: 3}
@@ -531,6 +526,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3df090fbb1bcab346a15393bac0aca97, type: 3}
+--- !u!1001 &6649115515548046506
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188482, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6649115516529188492, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
+      propertyPath: m_Name
+      value: Grid
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d1434f481869cc45bd0a1e04e9c0061, type: 3}
 --- !u!1001 &7726100942675986307
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -589,14 +641,14 @@ PrefabInstance:
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: OtherShroom
       value: 
-      objectReference: {fileID: 866356530}
+      objectReference: {fileID: 1520618482}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: objectsToActivate
       value: 
-      objectReference: {fileID: 593682556}
+      objectReference: {fileID: 851729271}
     - target: {fileID: 7945494654688053695, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
       propertyPath: objectsToDeactivate
       value: 
-      objectReference: {fileID: 248668909}
+      objectReference: {fileID: 1454229228}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc42e90c2a320a247a28043e31705cbc, type: 3}
