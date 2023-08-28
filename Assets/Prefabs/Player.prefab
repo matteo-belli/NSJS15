@@ -95,10 +95,10 @@ GameObject:
   - component: {fileID: 6299826280813636089}
   - component: {fileID: 6299826280813636088}
   - component: {fileID: 6299826280813636086}
+  - component: {fileID: 6299826280813636087}
   - component: {fileID: 6299826280813636091}
   - component: {fileID: 2427269183477921556}
   - component: {fileID: 6299826280813636090}
-  - component: {fileID: 6299826280813636087}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -188,6 +188,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   jumpspeed: 10
+  anim: {fileID: 6299826280813636087}
+--- !u!95 &6299826280813636087
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6299826280813636093}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1c195097dd3eb544995948e4dced7a4a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!61 &6299826280813636091
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -261,23 +282,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!95 &6299826280813636087
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6299826280813636093}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1c195097dd3eb544995948e4dced7a4a, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0

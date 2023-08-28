@@ -6,12 +6,15 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed;
     public float jumpspeed;
-    private Rigidbody2D body;
-    private Animator anim;
+    public Rigidbody2D body;
+    public Animator anim;
     private bool Grounded;
+
+    public bool canmove = true;
 
     private void Awake()
     {
+        bool canmove = true;
         //prendo le ref al rigidbody e all'animator dal player
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -19,23 +22,27 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        float horizontalInput = Input.GetAxis("Horizontal");
-        body.velocity = new Vector2(horizontalInput * speed, body.velocity.y);
+        if (canmove)
+        {
+            float horizontalInput = Input.GetAxis("Horizontal");
+            body.velocity = new Vector2(horizontalInput * speed, body.velocity.y);
 
-        //sprite a destra se vado a destra
-        if (horizontalInput > 0.01f)
-            transform.localScale = Vector3.one;
+            //sprite a destra se vado a destra
+            if (horizontalInput > 0.01f)
+                transform.localScale = Vector3.one;
 
-        //sprite a sinistra se vado a sinistra
-        else if (horizontalInput < -0.01f)
-            transform.localScale = new Vector3(-1, 1, 1);
+            //sprite a sinistra se vado a sinistra
+            else if (horizontalInput < -0.01f)
+                transform.localScale = new Vector3(-1, 1, 1);
 
-        if (Input.GetKey(KeyCode.Space) && Grounded)
-            Jump();
-
+            if (Input.GetKey(KeyCode.Space) && Grounded)
+                Jump();
+        
 
         //setto i parametri dell'animator, se premo destra o sinistra parte l'animazione
         anim.SetBool("Run", horizontalInput != 0);
+        }
+
         anim.SetBool("Grounded", Grounded);
 
     }
