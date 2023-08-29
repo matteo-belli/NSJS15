@@ -31,8 +31,7 @@ public class EndScript : MonoBehaviour
 
             playermovement.canmove = false;
 
-            playermovement.speed = 0f;
-            playermovement.jumpspeed = 0f;
+
             playermovement.body.constraints = RigidbodyConstraints2D.FreezePositionX;
             playermovement.enabled = false;
 
