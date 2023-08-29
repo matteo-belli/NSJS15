@@ -9,7 +9,8 @@ public class NormalShroom : MonoBehaviour
     public GameObject objectsToDeactivate;
     public GameObject Self;
     public GameObject OtherShroom;
-
+    public AudioSource source;
+    public AudioClip Shroms;
     public void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Player entered trigger.");
@@ -23,6 +24,8 @@ public class NormalShroom : MonoBehaviour
             objectsToDeactivate.SetActive(false);
 
             Self.SetActive(false);
+
+            source.PlayOneShot(Shroms);
 
             OtherShroom.SetActive(true);
         }

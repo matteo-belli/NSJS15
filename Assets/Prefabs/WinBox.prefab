@@ -43,7 +43,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ae007f92d62d75341a7bac32071117f4, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -176,6 +176,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CanvasBox: {fileID: 8436035963093163525}
+  source: {fileID: 7780721274336382794}
+  Pidgeon: {fileID: 8300000, guid: ae007f92d62d75341a7bac32071117f4, type: 3}
   objectsToActivate: {fileID: 8436035964285782496}
   playermovement: {fileID: 0}
 --- !u!61 &8436035963093163525
@@ -191,7 +193,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 3.553666, y: -1.3697104}
+  m_Offset: {x: 4.8223724, y: -2.4915276}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -202,7 +204,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 7.9275074, y: 7.6421576}
+  m_Size: {x: 7.046051, y: 6.306656}
   m_EdgeRadius: 0
 --- !u!1 &8436035963607307696
 GameObject:
@@ -272,8 +274,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Get Ready to the Contact...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f8d6bd9c86fcc2649975e2ca87b732b1, type: 2}
+  m_sharedMaterial: {fileID: -2487146429698963424, guid: f8d6bd9c86fcc2649975e2ca87b732b1, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -357,7 +359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &8436035964285782497
 RectTransform:
   m_ObjectHideFlags: 0

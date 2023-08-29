@@ -41,6 +41,13 @@ public class EndScript : MonoBehaviour
             anim.SetBool("Run", false);
 
             source.PlayOneShot(Pidgeon);
+
+            StartCoroutine(DelayLittle());
+            IEnumerator DelayLittle()
+            {
+                yield return new WaitForSeconds(5); //wait 5 secconds
+                Application.Quit();
+            }
         }
     }
     public void OnTriggerExit2D(Collider2D other)
