@@ -12,6 +12,7 @@ public class EndScript : MonoBehaviour
     private Animator anim;
     
     public PlayerMovement playermovement;
+    public GameObject canvasEnd;
 
     // Start is called before the first frame update
     void Start()
@@ -45,7 +46,9 @@ public class EndScript : MonoBehaviour
             IEnumerator DelayLittle()
             {
                 yield return new WaitForSeconds(5); //wait 5 secconds
+                canvasEnd.SetActive(true);
                 Application.Quit();
+                MusicManager.Instance.GetComponent<AudioSource>().Stop();
             }
         }
     }

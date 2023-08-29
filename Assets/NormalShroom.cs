@@ -28,6 +28,8 @@ public class NormalShroom : MonoBehaviour
             source.PlayOneShot(Shroms);
 
             OtherShroom.SetActive(true);
+            MusicManager.Instance.SwitchToNormal();
+            PostProcessPsychedelic.Instance.isPsychedelic = false;
         }
     }
 }
