@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4269745481843202441}
   - component: {fileID: 4269745481843202440}
   - component: {fileID: 1300882353140180970}
+  - component: {fileID: 5801018310907415583}
   m_Layer: 0
   m_Name: Psychedelic Background Piece
   m_TagString: Ground
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 2
-  m_Size: {x: 200, y: 40}
+  m_Size: {x: 400, y: 100}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -105,3 +106,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &5801018310907415583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4269745481843202442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de72ba05042e5d9459a5e48b14eaffbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localPosition: 0
+  snap: {x: 1, y: 1, z: 1}
+  snapAxis: 255

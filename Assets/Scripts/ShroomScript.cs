@@ -1,27 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using Utility;
 
 public class ShroomScript : MonoBehaviour {
-	public Collider2D shroomcollider; // Reference to the player's collider
-	public GameObject objectsToActivate;
-	public GameObject objectsToDeactivate;
-	public GameObject Self;
-	public GameObject OtherShroom;
-	public AudioSource source;
-	public AudioClip Shroms;
+	[SerializeField] private AudioClip pickupSound;
 
 	public void OnTriggerEnter2D(Collider2D other) {
-		if (other != shroomcollider) {
-			objectsToActivate.SetActive(true);
-
-			objectsToDeactivate.SetActive(false);
-			source.PlayOneShot(Shroms);
-
-			Self.SetActive(false);
-			OtherShroom.SetActive(true);
+		if (other.gameObject.layer == LayerMask.NameToLayer("Player")) {
+			SfxManager.Instance.PlayClip(pickupSound, 0.1f);
 			MusicManager.Instance.SwitchToPsychedelic();
 			PostProcessPsychedelic.Instance.isPsychedelic = true;
+			WorldSwitcher.Instance.SwitchWorld(false);
 		}
 	}
 }
